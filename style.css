@@ -194,4 +194,7 @@ h1 {
     h1 {
         font-size: 32px;
     }
+    .about-product p {
+        padding: 0 10px;
+    }
 }
