@@ -1,3 +1,5 @@
+Link final: https://julianapsilva.github.io/Social-proof-section-challenge-hub/
+
 # Frontend Mentor - Social proof section
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
